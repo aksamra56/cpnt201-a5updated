@@ -8,7 +8,7 @@ Link to GH Page Site:
 [https://aksamra56.github.io/cpnt201-a5updated/]
 
 Link to GH Repo:
-[https://github.com/aksamra56/cpnt201-a5.git]
+[https://github.com/aksamra56/cpnt201-a5updated.git]
 
 # Attributes:
 [https://zyro.com/ca/preview/dovile?utm_medium=affiliate&utm_source=aff1635&utm_campaign=aff35&transaction_id=102c99be34ba2c657cf271bb12b426]
