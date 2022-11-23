@@ -5,7 +5,7 @@
 Author: Akashdeep Samra
 
 Link to GH Page Site:
-[https://aksamra56.github.io/cpnt201-a5/#about]
+[https://aksamra56.github.io/cpnt201-a5updated/]
 
 Link to GH Repo:
 [https://github.com/aksamra56/cpnt201-a5.git]
