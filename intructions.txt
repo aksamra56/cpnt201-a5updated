@@ -1,2 +1,0 @@
-run "npm i"
-then run " lnpm run start"
